@@ -3,7 +3,7 @@ Movies and TV shows available on Netflix, Prime, Hulu and Disney+
 
 ## Content ##
 The dataset is an amalgamation of:
-- data that was scraped from Reelgood.com, which comprised a comprehensive list of movies available on various streaming platforms
+- data that was scraped, which comprised a comprehensive list of movies available on various streaming platforms
 - IMDb dataset
 
 ## Inspiration ##
